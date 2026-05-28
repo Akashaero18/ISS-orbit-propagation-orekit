@@ -1,0 +1,5 @@
+#Ignore Data Files
+orekit-data-master.zip
+orekit-data/
+
+__pycache__/
