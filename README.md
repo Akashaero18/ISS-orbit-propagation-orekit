@@ -30,6 +30,8 @@ python iss_leo_propagator.py
 ## Output
 - **Left plot:** ISS altitude (geodetic height) over 24 hours
 - **Right plot:** Ground track showing where ISS passes over Earth's surface
+<img width="1600" height="600" alt="manualsave" src="https://github.com/user-attachments/assets/98f667ec-16f1-422e-afed-0c60c17b09e1" />
+
 
 ## Author
    Akash
